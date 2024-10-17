@@ -1,0 +1,11 @@
+A Simple Eureka Server application:
+Programs:
+SpringBootEurekaServerApplication1Application.java
+Notes:
+* The @EnableEurekaServer annotation to activate Eureka Server related configuration.
+* If main class is not annotated with @EnableEurekaServer then Eureka Server configurations will not configured and Eureka Server url is gives 404 - Not Found.
+* 'spring.application.name' property is used to configure application name.
+* 'server.port' property is used to configure embedded server port, default port is 8080.
+* 'eureka.client.register-with-eureka' property is used to indicate whether or not this instance should register its information with eureka server for discovery by others, default value is true.
+* 'eureka.client.fetch-registry' property used to indicate whether this client should fetch eureka registry information from eureka server, default value is true.
+Output:

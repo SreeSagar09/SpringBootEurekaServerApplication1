@@ -1,0 +1,1 @@
+A Simple Eureka Server application:
