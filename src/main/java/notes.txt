@@ -9,3 +9,4 @@ Notes:
 * 'eureka.client.register-with-eureka' property is used to indicate whether or not this instance should register its information with eureka server for discovery by others, default value is true.
 * 'eureka.client.fetch-registry' property used to indicate whether this client should fetch eureka registry information from eureka server, default value is true.
 Output:
+Eureka Server url: http://localhost:8761
