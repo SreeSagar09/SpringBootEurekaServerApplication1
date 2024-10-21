@@ -1,1 +1,1 @@
-A Simple Eureka Server application:
+A Simple Netflix Eureka Server application:

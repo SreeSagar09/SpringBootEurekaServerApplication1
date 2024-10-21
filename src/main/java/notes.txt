@@ -1,4 +1,4 @@
-A Simple Eureka Server application:
+A Simple Netflix Eureka Server application:
 Programs:
 SpringBootEurekaServerApplication1Application.java
 Notes:
