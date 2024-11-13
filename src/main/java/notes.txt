@@ -1,6 +1,6 @@
 A Simple Netflix Eureka Server application:
 Programs:
-SpringBootEurekaServerApplication1Application.java
+* SpringBootEurekaServerApplication1Application.java
 Notes:
 * The @EnableEurekaServer annotation to activate Eureka Server related configuration.
 * If main class is not annotated with @EnableEurekaServer then Eureka Server configurations will not configured and Eureka Server url is gives 404 - Not Found.
